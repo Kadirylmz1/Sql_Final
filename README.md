@@ -1,2 +1,4 @@
 # Sql_Final
-A new Flutter project.
+Giresun Üniversitesi Şebinkarahisar MYO.
+
+Kadir Yılmaz
